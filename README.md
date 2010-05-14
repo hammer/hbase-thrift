@@ -10,7 +10,7 @@ To upload to PyPI, I run:
     $ make 
     $ python setup.py build sdist upload
 
-Unless you plan on changine the HBase Thrift bindings yourself, you shouldn't need to use this project. To work with HBase from Python, just say
+Unless you plan on changing the HBase Thrift bindings yourself, you shouldn't need to use this project. To work with HBase from Python, just say
 
     $ sudo pip install python-hbase
 
