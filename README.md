@@ -1,4 +1,4 @@
-Python-HBase
+HBase-Thrift
 ================
 
 This package can be used to generate a Python source or binary distribution for the [HBase](http://www.hbase.org) [Thrift](http://incubator.apache.org/thrift/) bindings.
@@ -12,5 +12,6 @@ To upload to PyPI, I run:
 
 Unless you plan on changing the HBase Thrift bindings yourself, you shouldn't need to use this project. To work with HBase from Python, just say
 
-    $ sudo pip install python-hbase
+    $ sudo pip install hbase-thrift
+
 
